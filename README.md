@@ -40,9 +40,10 @@ It consists of three major modules:
 ###  AI Module
 - Python 3.11+
 - LangChain
-- Gemini Pro Vision API (Google Generative AI)
-- OpenAI Image Generation (optional)
-- Whisper / EasyOCR (optional)
+- Gemini 2.5 Pro
+- Kling AI Image API
+- Kling AI Try-On API
+
 
 ###  Frontend
 - React Native
